@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+
+eshopsite/local_settings.py
+staticfiles/
